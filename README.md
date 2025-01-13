@@ -1,6 +1,7 @@
 # programming_languages_odin_project
 
-This is a variation of the first project in the Odin project curriculum
+This is a variation of the first Assignment in the Odin project curriculum.
+
 Instead of recipes, I decided to use programming languages instead, for fun.
 
 All info included is mostly superficial and sourced from wikipedia.
