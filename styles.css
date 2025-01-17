@@ -32,3 +32,18 @@ li{
 	padding-left: 35px;
 	margin: 10px;
 }
+
+ .cpp{
+	color: #4F759B;
+	padding: 20px;
+	border: 20px solid #92C9B1;
+	margin: 40px;
+	background: #A2FAA3;
+}
+
+img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
