@@ -1,5 +1,29 @@
 /*CSS*/
 
- * {
-	outline: 2px solid red;
+ h1{
+	 text-align: center;
+	 color: #5D5179
+ }
+
+ .box-one{
+	color: #4F759B;
+	padding: 20px;
+	border: 20px solid #92C9B1;
+	margin: 40px;
+	background: #A2FAA3;
+}
+
+div.box-two{
+	color: #4F759B;
+	padding: 20px;
+	border: 20px solid #92C9B1;
+	margin: 40px;
+	background: #A2FAA3;
+}
+
+li{
+	outline: 2px solid #571F4E;
+	padding: 10px;
+	padding-left: 35px;
+	margin: 10px;
 }
