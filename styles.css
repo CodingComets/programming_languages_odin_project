@@ -33,7 +33,8 @@ li{
 	margin: 10px;
 }
 
- .cpp{
+ .cpp,
+ .csharp{
 	color: #4F759B;
 	padding: 20px;
 	border: 20px solid #92C9B1;
@@ -41,9 +42,13 @@ li{
 	background: #A2FAA3;
 }
 
-img{
-	display: block;
+.center{
+	/*display: block;*/
     margin-left: auto;
     margin-right: auto;
+	
     width: 50%;
+	
+	display: flex;
+	justify-content: center;
 }
